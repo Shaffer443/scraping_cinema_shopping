@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+*{
+    background-color: black;
+    color: white;
+}
+
+html{
+    font-size: 62.5%;
+
+    /*border: 2px solid green;*/
+}
+
+body{
+    /*border: 2px solid red;*/
+}
+
+main{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 20px;
+}
+
+    main h1{
+        margin: auto;
+        font-family: 'Rajdhani', sans-serif;
+    }
+
+section{
+    flex-direction: column;
+
+    margin-bottom: 50px;
+
+}
+
+.shopping-bloco-base{
+
+    width: 100%;
+    max-width: 800px;
+    height: 100%;
+    /*max-height: 600px;*/
+
+    margin: auto;
+    /*margin-top: 10px;
+    margin-bottom: 10px;*/
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+    box-shadow: 40px 20px rgba(255, 255, 255, 0.2);
+
+    
+
+    /*overflow: hidden;*/
+
+    border: 2px solid white;
+}
+
+    .cartaz img{
+
+        /*position: absolute;*/
+        
+        width: 100%;
+        max-width: 300px;
+ 
+        padding: 10px;
+
+        /*border: 2px solid white;*/
+    }
+
+    .dados-bloco{
+
+        width: 100%;
+        max-width: 400px;
+
+        font-size: 1.4rem;
+
+        padding: 10px;
+        
+        /*border: 2px solid white;*/
+        
+    }
+
+        .sala-horario{
+            display: flex;
+            align-items: center;
+            justify-content: space-evenly;
+        }
+
+                #info01{
+                   
+
+                    font-size: 1.2rem;
+
+                    padding: 1px;
+                    
+                    /*border: 2px solid white;*/
+                }
+
+                        #info02{
+                         
+                            font-size: 1.2rem;
+                   
+                            padding: 1px;
+
+                            /*border: 2px solid white;*/
+                        }
+
+                                #info03{
+                    
+                                    font-size: 1.2rem;
+
+                                    padding: 1px;
+                                    
+                                /*border: 2px solid white;*/
+
+                                }
