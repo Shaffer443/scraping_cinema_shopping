@@ -7,6 +7,7 @@ Com isso atualizo uma página dentro de um projeto, com essa infomrações.</br>
 **Premissa**</br></br>
 
 Criar uma API onde possa forncer essas infomações para quem quiser puxa-las.</br></br>
-<mark>OBS:</mark> Preciso aprender a fazer isso ainda.</br></br>
 
-Projeto aidna incompleto.
+**OBS:** Preciso aprender a fazer isso ainda.  : / </br></br>
+
+Projeto ainda incompleto, em Construção.
